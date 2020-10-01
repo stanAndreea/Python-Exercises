@@ -8,3 +8,7 @@ shop += [('shirt', 'M')]
 tuplex = "h", 10, "o", "m", "e", "w", "o", "r", "k"
 positivion = 1
 tuplex = tuplex[ : positivion ] + tuplex[positivion+1 : ]
+
+#homework ex3 
+listx = [(x, y) for x in [1,2,3] for y in [4,5,6]]
+listx[-1] = 'last'
