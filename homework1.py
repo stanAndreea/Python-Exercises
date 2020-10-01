@@ -20,6 +20,4 @@ stringList = [i for i in slist if isinstance(i, str)]
 
 
 #homework ex5
-matrix =[['X','_','_'],
-        ['_','X','_'],
-        ['_','_','X']]
+
