@@ -16,3 +16,10 @@ Requirements:
 	• To be able to sell any item that is in the shop
 
 	• To restock the shop with new items
+
+
+Homework 2 :
+
+Requirements:
+
+	• Write a python code to remove an element from a tuple.
