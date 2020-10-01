@@ -12,3 +12,8 @@ tuplex = tuplex[ : positivion ] + tuplex[positivion+1 : ]
 #homework ex3 
 listx = [(x, y) for x in [1,2,3] for y in [4,5,6]]
 listx[-1] = 'last'
+
+
+#homework ex4
+slist = ['I', 'am', 1, 'list', 'of', 5, 'strings']
+stringList = [i for i in slist if isinstance(i, str)]
