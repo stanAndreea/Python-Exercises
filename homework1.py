@@ -17,3 +17,9 @@ listx[-1] = 'last'
 #homework ex4
 slist = ['I', 'am', 1, 'list', 'of', 5, 'strings']
 stringList = [i for i in slist if isinstance(i, str)]
+
+
+#homework ex5
+matrix =[['X','_','_'],
+        ['_','X','_'],
+        ['_','_','X']]
