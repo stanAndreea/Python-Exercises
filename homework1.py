@@ -20,4 +20,5 @@ stringList = [i for i in slist if isinstance(i, str)]
 
 
 #homework ex5
+matrix =['X' if i == j  else '_' for i in range(3) for j in range(3)]
 
